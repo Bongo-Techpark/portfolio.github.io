@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    color: #00ff00;
+}
